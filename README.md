@@ -21,6 +21,10 @@
 #### Add game draw condition and check if the game has drawn
 ![image](https://github.com/dangminh214/Tic-Tac-Toe-using-React-/assets/51837721/ab0df6bc-7915-4f58-9f82-206f5c0fc446)
 
+### Show the log, history of every single turn(this will be reset after every single match)
+![image](https://github.com/dangminh214/Tic-Tac-Toe-using-React-/assets/51837721/0330e573-0c82-4b23-92a3-6011107040a7)
+
+
 
 
 
