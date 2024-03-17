@@ -24,6 +24,10 @@
 ### Show the log, history of every single turn(this will be reset after every single match)
 ![image](https://github.com/dangminh214/Tic-Tac-Toe-using-React-/assets/51837721/0330e573-0c82-4b23-92a3-6011107040a7)
 
+### Change the name of the winner base on saved name: 
+![image](https://github.com/dangminh214/Tic-Tac-Toe-using-React-/assets/51837721/434d2988-df34-4ff1-aba6-c5b38228ac99)
+
+
 
 
 
